@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheParthK
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on...nothing
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me @supitsparth (IG)
 
 <!---
